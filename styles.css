@@ -1,0 +1,11 @@
+.bg-image{
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+   .Hero Section {  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+  }
